@@ -73,7 +73,7 @@ Game-based learning portfolios
 
 Unity 3D learning demonstrations
 
-**SnapShots:**
+**📷 SnapShots:**
 
 <img width="861" height="443" alt="image" src="https://github.com/user-attachments/assets/ea349513-e7a7-472a-832d-ed143f56100e" />
 
